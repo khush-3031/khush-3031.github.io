@@ -1,0 +1,13 @@
+body{
+    color: white;
+}
+p{
+    margin-top: 16px;
+}
+
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: aliceblue;
+}
